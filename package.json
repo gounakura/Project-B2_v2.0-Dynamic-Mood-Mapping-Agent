@@ -1,0 +1,18 @@
+{
+  "name": "b2_project_2026_09_25_01_v2.0_01",
+  "version": "1.0.0",
+  "description": "Dynamic Mood Mapping Layer Auto-Generator for Audio Processing",
+  "main": "index.ts",
+  "scripts": {
+    "start": "npx tsx index.ts"
+  },
+  "dependencies": {
+    "@google/genai": "*",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
